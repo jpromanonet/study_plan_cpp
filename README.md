@@ -99,6 +99,60 @@ Month 12: Quantum Computing Simulator
 
     Create a quantum computing simulator that emulates quantum gates and qubit interactions for basic quantum algorithms.
 ## Video Games
+### Easy level
+Month 1: Pong Game
+
+    Create a simple Pong game using a game engine like Unity or Godot. Learn about basic player controls, collision detection, and scoring.
+
+Month 2: Flappy Bird Clone
+
+    Develop a Flappy Bird clone with simple 2D graphics and obstacles using a game engine like Unity or Godot.
+
+Month 3: Brick Breaker Game
+
+    Build a brick breaker game where players use a paddle to bounce a ball and break blocks. Explore game physics and mechanics.
+
+Month 4: Endless Runner Game
+
+    Create an endless runner game where the player controls a character that automatically moves forward, avoiding obstacles and collecting items.
+
+Month 5: Match-3 Puzzle Game
+
+    Develop a match-3 puzzle game like Candy Crush with colorful graphics and mechanics for swapping and matching tiles.
+
+Month 6: Platformer Game
+
+    Design a 2D platformer game featuring a character navigating through levels, jumping over obstacles, and collecting items.
+
+Month 7: Racing Game
+
+    Build a simple 3D racing game with basic tracks, vehicles, and racing mechanics using a game engine like Unity.
+
+Month 8: Space Shooter Game
+
+    Create a space shooter game where the player controls a spaceship, shooting down enemies and avoiding projectiles.
+
+Month 9: Maze Game
+
+    Develop a 3D maze game where the player navigates through a maze to reach the goal while avoiding traps.
+
+Month 10: Card Collecting Game
+
+    Design a card collecting game where players collect and trade cards, build decks, and compete against AI or other players.
+
+Month 11: Tower Defense Game
+
+    Build a tower defense game where players strategically place towers to defend against waves of enemies.
+
+Month 12: Text Adventure Game
+
+    Create a simple text-based adventure game using a game engine like Twine or Ren'Py. Focus on storytelling and player choices.
+
+### Hard Level
+
+- https://www.youtube.com/@writeyourownoperatingsystem
+- https://www.youtube.com/javidx9
+
 ## Web Development
 
 Month 1: C++ with React
