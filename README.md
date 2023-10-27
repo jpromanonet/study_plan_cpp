@@ -1,5 +1,10 @@
 # Study plan for C++
 
+Part 3 of 3
+- Part 1: https://github.com/jpromanonet/study_plan_videogames
+- Part 2: https://github.com/jpromanonet/study_plan_python
+- Part 3: https://github.com/jpromanonet/study_plan_cpp
+
 ## Desktop
 ### Easy level
 Month 1: Text Editor
